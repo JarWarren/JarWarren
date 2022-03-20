@@ -1,4 +1,5 @@
-<h3 align="center"> Hi there. Swift is awesome 🔥</h3>
+<h3 align="center">Hi there, I'm Jared 👋</h3>
+<h4 align="center">Swift is awesome 🔥</h4>
 
 <h3 align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarWarren&layout=compact&theme=dracula" alt="JarWarren's most used langauges"/>
