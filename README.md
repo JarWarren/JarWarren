@@ -11,9 +11,9 @@
 
 ## My fun tools 🔥
 <a href="https://www.adobe.com/products/photoshop.html"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a>
-<a href="https://www.jetbrains.com/rider/"><img alt="Jetbrains Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
+<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-7D7D7D?style=for-the-badge&logo=unity&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/"><img alt="Jetbrains" src="https://img.shields.io/badge/Jetbrains-DD1265?style=for-the-badge&logo=Jetbrains&logoColor=white"/></a>
 <a href="https://forums.swift.org/"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
-<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarWarren&layout=compact&theme=dracula)
 
