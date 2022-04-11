@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Jared 👋
 - 🏢 Software engineer [@Meta](https://github.com/facebook) - FB Gaming.
-- 📱 Usually I'm an iOS developer.
+- 📱 Before that I was an iOS developer.
 - 🖥️ I started my journey with the people [here](https://statefulacademy.com/).
 - 🎮 In my free time I like game dev.
 
