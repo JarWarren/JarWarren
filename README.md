@@ -18,10 +18,7 @@
 ## Contact 📞
 <a href="https://www.linkedin.com/in/jarwarren/"><img alt="LinkedIn" src="https://img.shields.io/badge/JarWarren-0077B5?logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/11619868/jarwarren"><img alt="StackOverflow" src="https://img.shields.io/badge/JarWarren-FE7A16?logo=stack-overflow&logoColor=white"/></a>
-<a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/JarWarren_6554-5865F2?logo=discord&logoColor=white"/></a>
 <a href="https://github.com/JarWarren"><img alt="GitHub" src="https://img.shields.io/badge/JarWarren-100000?logo=github&logoColor=white"/></a>
-<a href="https://na.op.gg/summoners/na/Hide%2Bon%2BAhri"><img alt="Riot Games" src="https://img.shields.io/badge/Hide_on_Ahri-D32936?logo=riot-games&logoColor=white"/></a>
-<a href="mailto:wrrn24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/wrrn24-D14836?logo=gmail&logoColor=white"/></a>
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjarwarren1212%2Fhit-counter)
 
