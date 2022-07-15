@@ -12,7 +12,7 @@
 ## My fun tools 🔥
 <a href="https://www.jetbrains.com/clion/"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/></a>
 <a href="https://beej.us/guide/bgc/html/"><img alt="C Language" src="https://img.shields.io/badge/language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="https://beej.us/guide/bgc/html/"><img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
+<a href="https://www.vulkan.org/"><img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarWarren&layout=compact&theme=dracula)
 
