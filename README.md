@@ -3,15 +3,16 @@
 </h1>
 
 ## Hi there, I'm Jared 👋
-- 🏢 Software engineer [@Meta](https://github.com/facebook) - FB Gaming.
-- 📱 Before that I was an iOS developer.
-- 🖥️ I started my journey with the people [here](https://statefulacademy.com/).
-- 🎮 In my free time I like game dev.
+- 🏢 Software engineer [@Meta](https://github.com/facebook) - FB Gaming
+- 📱 Before that - iOS developer
+- 🖥️ Started w/the people - [here](https://statefulacademy.com/)
+- 🎮 In my free time I like game dev
 
 
 ## My fun tools 🔥
-<a href="https://www.adobe.com/products/photoshop.html"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a>
-<a href="https://godotengine.org/"><img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/clion/"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/></a>
+<a href="https://beej.us/guide/bgc/html/"><img alt="C Language" src="https://img.shields.io/badge/language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a href="https://beej.us/guide/bgc/html/"><img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarWarren&layout=compact&theme=dracula)
 
