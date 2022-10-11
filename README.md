@@ -3,10 +3,10 @@
 </h1>
 
 ## Hi there, I'm Jared 👋
-- 🏢 Software engineer [@Meta](https://github.com/facebook) - FB Gaming
-- 📱 Before that - iOS developer
-- 🖥️ Started w/the people - [here](https://statefulacademy.com/)
-- 🎮 In my free time I like game dev
+- 🥽 Software engineer [@Meta](https://github.com/facebook)'s FB Gaming
+- 📱 Native mobile dev most of the time
+- 🖥️ Started with the people [here](https://statefulacademy.com/)
+- 🧬 Graphics programming + game dev in my free time
 
 ## Contact 📞
 <a href="https://www.linkedin.com/in/jarwarren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/JarWarren-0077B5?logo=linkedin&logoColor=white"/></a>
