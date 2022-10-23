@@ -3,7 +3,7 @@
 </h1>
 
 - 🥽 Software engineer [@Meta](https://github.com/facebook)'s FB Gaming
-- 📱 Native mobile dev most of the time
+- 📱 Native mobile dev usually
 - 🖥️ Started with the people [here](https://statefulacademy.com/)
 - 🧬 Graphics programming in my free time
 ##
