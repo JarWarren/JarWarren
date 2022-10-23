@@ -5,7 +5,7 @@
 - 🥽 Software engineer [@Meta](https://github.com/facebook)'s FB Gaming
 - 📱 Native mobile dev most of the time
 - 🖥️ Started with the people [here](https://statefulacademy.com/)
-- 🧬 Graphics programming + game dev in my free time
+- 🧬 Graphics programming in my free time
 ##
 <a href="https://www.linkedin.com/in/jarwarren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/JarWarren-0077B5?logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/11619868/jarwarren" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/JarWarren-FE7A16?logo=stack-overflow&logoColor=white"/></a>
