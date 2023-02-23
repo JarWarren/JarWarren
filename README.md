@@ -3,7 +3,7 @@
 </h1>
 
 - 📱 iOS [@Stakes](https://github.com/playwithstakes)
-- 🖥️ Started with the people [here](https://statefulacademy.com/)
+- 🖥️ Started [here](https://statefulacademy.com/)
 - 🧬 Graphics programming in my free time
 ##
 <a href="https://www.linkedin.com/in/jarwarren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/JarWarren-0077B5?logo=linkedin&logoColor=white"/></a>
