@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/jarwarren/jarwarren/master/name.gif" alt="Jared Warren" />
 </h1>
 
-- 🥽 Software engineer [@Meta](https://github.com/facebook)'s FB Gaming
-- 📱 Native mobile dev usually
+- 📱 iOS [@Stakes](https://github.com/playwithstakes)
 - 🖥️ Started with the people [here](https://statefulacademy.com/)
 - 🧬 Graphics programming in my free time
 ##
