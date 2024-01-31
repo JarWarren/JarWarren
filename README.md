@@ -3,8 +3,9 @@
 </h1>
 
 - 📱 iOS [@Stakes](https://github.com/playwithstakes)
-- 🖥️ Started [here](https://statefulacademy.com/)
-- 🧬 Graphics programming in my free time
+- ♾️ Previously at [@Meta](https://github.com/facebook)
+- 🧬 KMP in my free time
+- 🌐 HTMX + Go on the frontend
 ##
 <a href="https://www.linkedin.com/in/jarwarren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/JarWarren-0077B5?logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/11619868/jarwarren" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/JarWarren-FE7A16?logo=stack-overflow&logoColor=white"/></a>
