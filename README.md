@@ -6,7 +6,7 @@
 - ♾️ Previously [@Meta](https://github.com/facebook)
 - 🧬 Mobile with Swift + KMP
 - 🌐 Go + HTMX enjoyer
-- In my free time, C
+- ⚙️ C when I can
 ##
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=43893126" target="_blank" style="display: block" align="center">
   <picture>
