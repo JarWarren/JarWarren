@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/jarwarren/jarwarren/master/name.gif" alt="Jared Warren" />
 </h1>
 
-- 📱 iOS [@Stakes](https://github.com/playwithstakes)
-- ♾️ Previously at [@Meta](https://github.com/facebook)
+- 📱 Currently [@theinfinitereality](https://github.com/theinfinitereality)
+- ♾️ Previously [@Meta](https://github.com/facebook)
 - 🧬 KMP in my free time
 - 🌐 Go + HTMX enjoyer
 ##
