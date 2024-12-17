@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/jarwarren/jarwarren/master/name.gif" alt="Jared Warren" />
 </h1>
 
-- 📱 Currently [@theinfinitereality](https://github.com/theinfinitereality)
-- ♾️ Previously [@Meta](https://github.com/facebook)
-- 🧬 Mobile with Swift + KMP
+- 📱 Native iOS
 - 🌐 Go + HTMX enjoyer
 - ⚙️ C when I can
 ##
